@@ -42,14 +42,14 @@ export const Footer = () => {
 					<ul className="footer__developers">
 						<li className="footer__developer">
 							Designer:
-							<a className="footer__developer-link" href="#">
+							<a className="footer__developer-link" href="https://t.me/Mrshmallowww">
 								Anastasia Ilina
 							</a>
 						</li>
 
 						<li className="footer__developer">
 							Developer:
-							<a className="footer__developer-link" href="#">
+							<a className="footer__developer-link" href="http://t.me/kitayev_nura">
 								Kitayev Nurakhmet
 							</a>
 						</li>

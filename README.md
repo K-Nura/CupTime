@@ -36,4 +36,4 @@
 - **Минималистичный интерфейс для удобного использования.**
 - **Полезный инструмент для управления личным временем.**
 
-![Главная страница](https://github.com/Kitayev-Nurakhmet/CupTime/blob/main/public/image/CupTime.jpg)
+![Главная страница](https://github.com/Kitayev-Nurakhmet/CupTime/blob/main/public/image/CupTime.png)
